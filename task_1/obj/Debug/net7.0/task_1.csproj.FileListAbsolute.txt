@@ -1,0 +1,15 @@
+D:\Git\homework_4\task_1\bin\Debug\net7.0\task_1.exe
+D:\Git\homework_4\task_1\bin\Debug\net7.0\task_1.deps.json
+D:\Git\homework_4\task_1\bin\Debug\net7.0\task_1.runtimeconfig.json
+D:\Git\homework_4\task_1\bin\Debug\net7.0\task_1.dll
+D:\Git\homework_4\task_1\bin\Debug\net7.0\task_1.pdb
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.csproj.AssemblyReference.cache
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.AssemblyInfoInputs.cache
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.AssemblyInfo.cs
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.csproj.CoreCompileInputs.cache
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.dll
+D:\Git\homework_4\task_1\obj\Debug\net7.0\refint\task_1.dll
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.pdb
+D:\Git\homework_4\task_1\obj\Debug\net7.0\task_1.genruntimeconfig.cache
+D:\Git\homework_4\task_1\obj\Debug\net7.0\ref\task_1.dll
