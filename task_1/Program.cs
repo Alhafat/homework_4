@@ -4,19 +4,33 @@
 
 // 2, 4 -> 16
 
-
-
 Console.Clear();
 
-void APowB (int result)
+int NumberPowB(int number)
 {   
-    int result;
-    result=Math.Pow(A,B);
-    return result;
+    Console.Write("Введите степень числа: ");
+    int B=int.Parse(Console.ReadLine()!);
+    int result=1;
+    return(B);
+    if (B>0)
+    {
+        for (int i=0; i<B; i++)
+        {
+            result*=number;
+        }
+    }
+    else if (B==0) result=1;
+    // else if (B<0) 
+    // {
+    //     result=number*(1/Math.Abs(B));
+    // }
+    return (result);
 }
 
-Console.WriteLine("Введите число A: ");
-int A=int.Parse(ReadLine()!);
-Console.WriteLine("Введите число A: ");
-int A=int.Parse(ReadLine()!);
-result=APowB(result);
+Console.Write("Введите число: ");
+int number=int.Parse(Console.ReadLine()!);
+// Console.Write("Введите степень числа: ");
+// int B=int.Parse(Console.ReadLine()!);
+int result=NumberPowB(number);
+int b=NumberPowB(B);
+Console.WriteLine($"Число {number} в степени {b}  = {result}");
