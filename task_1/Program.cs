@@ -6,10 +6,8 @@
 
 Console.Clear();
 
-int NumberPowB(int number)
+int NumberPowB(int number, int B)
 {   
-    Console.Write("Введите степень числа: ");
-    int B=int.Parse(Console.ReadLine()!);
     int result=1;
     return(B);
     if (B>0)
@@ -29,8 +27,8 @@ int NumberPowB(int number)
 
 Console.Write("Введите число: ");
 int number=int.Parse(Console.ReadLine()!);
-// Console.Write("Введите степень числа: ");
-// int B=int.Parse(Console.ReadLine()!);
-int result=NumberPowB(number);
-int b=NumberPowB(B);
-Console.WriteLine($"Число {number} в степени {b}  = {result}");
+Console.Write("Введите степень числа: ");
+int B=int.Parse(Console.ReadLine()!);
+int result=NumberPowB(number,B);
+// int b=NumberPowB(B);
+Console.WriteLine($"Число {number} в степени {B}  = {result}");
