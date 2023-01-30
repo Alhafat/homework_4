@@ -19,11 +19,7 @@ int NumberPowB(int numberA)
             result*=numberA;
         }
     }
-    else if (numberB==0) result=1;
-    // else if (B<0) 
-    // {
-    //     result=number*(1/Math.Abs(B));
-    // }
+    else (numberB==0) result=1;
     return (result);
 }
 
@@ -48,10 +44,6 @@ Console.WriteLine($" = {result} ");
 //         }
 //     }
 //     else if (numberB==0) result=1;
-//     // else if (B<0) 
-//     // {
-//     //     result=number*(1/Math.Abs(B));
-//     // }
 //     return (result);
 // }
 
